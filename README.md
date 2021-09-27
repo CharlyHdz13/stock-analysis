@@ -19,3 +19,23 @@ The following image shows the stocks performance in 2017:
 The following image shows the stocks performance in 2018:
 
 ![Stocks_2018](https://user-images.githubusercontent.com/89402038/134991389-9b7716df-9cde-4ed5-8e01-0dd5bc676736.png)
+
+From the analysis I can say that the stocks of most of the comapnies had a great 2017, with the exception of TERP. Nevertheless, in 2018 most of the companies had a huge drop in their return, except for ENPH and RUN. ENPH had a little dip in their return percentage, but remained positive. On the other hand, RUN had a huge boost in their 2018 return percentage. 
+
+I would recommend bring more data into the data set to check mor years in order to have a better understanding of where are the stocks of this comapnies being headed to.
+
+### Code Performance
+
+As mentioned previously the second code is a refactored version of the first code. The first code is divided into two subroutines: the analysis and formatting of the cells. And the performance was the following:
+
+![VBA_Challenge_2017_Code1](https://user-images.githubusercontent.com/89402038/134992295-ae81beb1-4425-4a04-b75f-7efee9505525.png)
+![VBA_Challenge_2018_Code1](https://user-images.githubusercontent.com/89402038/134992300-1a75afdf-11e0-4d33-a160-d6b5e1563c90.png)
+
+The second code has the analysis and formatting into one only subroutine. And the performance was the following:
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/89402038/134992458-8d4c0d72-c120-44fc-bb0f-832ddafc7b3e.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/89402038/134992464-3b59cee3-eed1-4b68-bc15-2700059c6be1.png)
+
+## Summary
+- What are the advantages or disadvantages of refactoring code?
+- How do these pros and cons apply to refactoring the original VBA script?
