@@ -43,3 +43,4 @@ The second code has the analysis and formatting into one only subroutine. And th
   
 - How do these pros and cons apply to refactoring the original VBA script?
   
+  For this project it simplified the code for it to include all the features that were designed in a single subroutine, which could be assigned for one single button to execute the subroutine. The times of the refactored coded are a bit high, but this could be due to other factors besides the code itself. 
